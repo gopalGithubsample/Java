@@ -6,6 +6,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="false"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="false"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/praveenkirar/Desktop/Golu/HandsOn/Java"/>
 			<item value="/Users/praveenkirar/Desktop/Golu/HandsOn/JavaEE"/>
 			<item value="/Users/praveenkirar/Desktop/Golu/HandsOn/Java/wipro_java_project/src/com/wipro/java/com/wipro/java"/>
 			<item value="/Users/praveenkirar/Desktop/Golu/HandsOn/wipro_java_project"/>
