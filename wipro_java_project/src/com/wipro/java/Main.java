@@ -13,8 +13,9 @@ public class Main {
 	}
 
 	public static void main(String[] args) {
+		
 		// TODO Auto-generated method stub
-		MyClass();
+		MyClass obj = new MyClass();
 		obj.changeValue(10);
 		
 		System.out.println(obj.num);
