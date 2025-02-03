@@ -1,4 +1,4 @@
-
+package com.wipro.oops;
 public class Manager extends Employee{
 
 	public Manager() {

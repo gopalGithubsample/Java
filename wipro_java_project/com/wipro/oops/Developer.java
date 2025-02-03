@@ -1,6 +1,8 @@
 //parent class employee
 //child class developer
 //extends in keyword
+package com.wipro.oops;
+
 public class Developer extends Employee{
 
 	public Developer() {
