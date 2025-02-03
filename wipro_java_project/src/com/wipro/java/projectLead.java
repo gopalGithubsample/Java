@@ -6,8 +6,18 @@ public class projectLead extends Employee {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		//Child object is instantiated from child constructor
+		//Parent class consumes the properties and behaviors of child class
+		Employee emp=new projectLead();
+		emp.setId(1,2,3,4);
+		emp.setName("rohan");
+		emp.Salary(20000f);
+		
+		System.out.println(emp.getId();
+		System.out.println(emp.getName();
+		System.out.println(emp.getSalary();
+		
 	}
 
 }
