@@ -28,22 +28,20 @@ public class ListOperation {
 		
 		
 		
-		l2.add(1); 
-		l2.add(2);
-		l2.add(3);
-		
-		l1.addAll(1,l2);
-		
-		System.out.println(l1);
-		
-		l1.remove(1);
-		
-		System.out.println(l1);
-		
-		System.out.println(l1.set(2, 5));
-		System.out.println(l1);
-		System.out.println(l1.get(2));
+		//will add list l2 from 1 index
+		l1.addAll(1,l2);//size or memory is not fixed
 
+		System.out.println(l1);
+
+		//removes element from index1
+		l1.remove(1);
+
+		//printing the updated list 1
+		System.out.println(l1);
+
+		// Sets index 0 value to 5
+		l1.set(0,5);
+		System.out.println(l1);
 	}
 
 }
